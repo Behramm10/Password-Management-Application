@@ -200,5 +200,3 @@ GitHub: [@behramm10](https://github.com/behramm10)
 ## 📜 License
 
 This project is open source and available under the **MIT License**.
-
-```
